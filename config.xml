@@ -1,0 +1,29 @@
+ <widget id="A6027233926676"  version="20.05.09">
+    <name>花田电影</name>
+    <description>花田电影</description>
+    <author email="service@huatiantv.com" href="http://www.huatiantv.com">花田电影</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="pageBounce" value="false"/>
+	<preference name="appBackground" value="rgba(0,0,0,0.0)"/>
+	<preference name="windowBackground" value="rgba(0,0,0,0.0)"/>
+	<preference name="frameBackgroundColor" value="rgba(0,0,0,0.0)"/>
+	<preference name="hScrollBarEnabled" value="false"/>
+	<preference name="vScrollBarEnabled" value="false"/>
+	<preference name="autoLaunch" value="true"/>
+	<preference name="fullScreen" value="false"/>
+	<preference name="autoUpdate" value="true" />
+	<preference name="smartUpdate" value="false" />
+	<preference name="debug" value="true"/>
+	<preference name="statusBarAppearance" value="true"/>
+	<meta-data name="Mob-AppKey" value="2f22d66606b83"/>
+	<meta-data name="Mob-AppSecret" value="6bd209f587a3ceb2f7044dfa726cadf4"/>
+	<permission name="readPhoneState" />
+	<permission name="camera" />
+	<permission name="record" />
+	<permission name="location" />
+	<permission name="fileSystem" />
+	<permission name="internet" />
+	<permission name="bootCompleted" />
+	<permission name="hardware" />
+</widget>
